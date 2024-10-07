@@ -1,1 +1,1 @@
-A simple application for storing the orders of a resturant using the hash map data structure. 
+A simple application for storing the orders of a restaurant using the hash map data structure. 
